@@ -80,6 +80,7 @@
     }
     .col-sm-3 img{
         display: block;
+        margin-left: 10%;
         text-align: center;
         text-decoration: none;
     }
